@@ -1,13 +1,6 @@
 
-
 import { types } from '../types/types';
 
-/*
-  {
-    uid: akjsdbkajsbdaad,
-    name: 'Carlos'
-  }
-*/ 
 
 export const authReducer = (state={}, action) => {
   
